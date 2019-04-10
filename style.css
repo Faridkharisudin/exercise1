@@ -1,0 +1,12 @@
+
+
+.box1{
+    width:600px;
+    height:250px;
+    background: peru;
+    border: 3px solid black;
+    border-radius: 5%;
+    font-size: 18px;
+    color:midnightblue;
+    font:status-bar;
+}
